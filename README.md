@@ -13,6 +13,9 @@
 
 ## Setup
 
+![INA226_Modul-1024x498](https://user-images.githubusercontent.com/65058286/211447523-26c16e88-bb29-4d1e-b0ee-3bd6135a4357.jpeg)
+
+
 ### Connect the INA226 sensor to the ESP32 according to the wiring diagram below.
 - SDA -> ESP32 SDA
 - SCL -> ESP32 SCL
