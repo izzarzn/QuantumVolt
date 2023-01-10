@@ -1,4 +1,4 @@
-# Voltage Measurement using INA226 and ESP32
+# Voltage Measurement using INA226 and ESP32 Upto 36V
 
 ## This project demonstrates how to measure voltage using an INA226 current/voltage sensor and an ESP32 microcontroller. The measured voltage is then displayed on an I2C LCD display.
 
